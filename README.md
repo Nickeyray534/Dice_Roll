@@ -1,4 +1,4 @@
-# Dice_Roll
+# Dice_Roll_Simulator
 To simulate a dice roll with Python, I’ll be using the random module in Python. 
 The random module can be imported easily into your code as it is preinstalled in the Python programming language. 
 After importing the random module, you have access to all the functions included in the module. 
